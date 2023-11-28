@@ -1,0 +1,9 @@
+body {
+  font-family: 'Open Sans';
+  font-family: monospace;
+}
+
+.content {
+  width: 1140px;
+  margin: 0 auto;
+}
